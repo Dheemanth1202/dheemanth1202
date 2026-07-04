@@ -53,8 +53,12 @@ I'm a second-year Electronics & Communication Engineering student at Nagarjuna C
 **Embedded Systems**
 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM7TDMI--S-1793D1?style=for-the-badge&logo=arm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil%20µVision-005C99?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Software & Web**
 
@@ -75,24 +79,22 @@ I'm a second-year Electronics & Communication Engineering student at Nagarjuna C
 
 ## 🚀 Featured Projects
 
-<!-- COMMENT: Add your GitHub repo links (and live demo link for NEXPARK if available) -->
+<!-- COMMENT: Add GitHub repo links for the two embedded projects below once uploaded -->
 
-### 🅰️ NEXPARK — AI-Powered Smart Parking System
-An intelligent parking management system combining hardware and AI: real-time vehicle detection using **YOLOv8**, with control/interfacing logic implemented in **Verilog RTL** and deployed on **Xilinx Vivado FPGA**.
-**Tech Stack:** Verilog · Xilinx Vivado · YOLOv8 · FPGA
-🔗 [GitHub Repo](YOUR_NEXPARK_REPO_URL) &nbsp;|&nbsp; 🌐 [Live Demo](YOUR_NEXPARK_DEMO_URL)
+### 🅰️ Multimodal Edge Device for Localized Hazard Detection
+An edge-computing based hazard detection system using flame, gas, and vibration sensors for real-time environmental monitoring. Integrates multiple sensor inputs for reliable detection and uses wireless communication to propagate alerts to connected devices for rapid safety response.
+**Tech Stack:** ESP32 · C++ · Sensor Fusion · Wireless Communication
+🔗 [GitHub Repo](YOUR_HAZARD_DETECTION_REPO_URL)
 
-### 🅱️ Two-Stage Miller Compensated Op-Amp
-Full analog IC design of a two-stage Miller-compensated operational amplifier in **Cadence Virtuoso**, simulated with **Spectre/ADE L** on **gpdk180 (180nm CMOS)** — covering DC, AC, and transient analysis.
-**Tech Stack:** Cadence Virtuoso · Spectre · ADE L · gpdk180 180nm CMOS
-🔗 [GitHub Repo](YOUR_OPAMP_REPO_URL)
+### 🅱️ Ultrasonic Radar System
+A microcontroller-based ultrasonic radar system for object detection and distance measurement, with a 180-degree scanning mechanism for obstacle mapping and real-time signal processing for accurate distance tracking.
+**Tech Stack:** Arduino · C++ · Ultrasonic Sensing · Signal Processing
+🔗 [GitHub Repo](YOUR_RADAR_REPO_URL)
 
 ### 🅲️ 8×8 Wallace Tree Multiplier
 A fully structural, gate-level 8×8 unsigned Wallace Tree multiplier built in Verilog-2001, with a 4-stage compressor tree, 16-bit carry-propagate adder, and a self-checking testbench validated across 66,000+ test vectors (directed, exhaustive, and pseudo-random).
 **Tech Stack:** Verilog-2001 · Icarus Verilog / ModelSim · Structural RTL Design
 🔗 [GitHub Repo](https://github.com/Dheemanth1202/Capstone-Project-1)
-
-<!-- COMMENT: Optionally add a 4th project, e.g. Systolic Array Multiplier or CampusFind -->
 
 ---
 
@@ -111,10 +113,17 @@ A fully structural, gate-level 8×8 unsigned Wallace Tree multiplier built in Ve
 
 ## 🏆 Achievements & Certifications
 
-- ✅ **IIT Madras — VLSI Design Certification**
-<!-- COMMENT: Add more certifications/achievements below, e.g. hackathons, VTU rank, workshops -->
-<!-- - ✅ [Achievement / Certification 2] -->
-<!-- - ✅ [Achievement / Certification 3] -->
+**Certifications**
+- ✅ VLSI Design — IIT Madras
+- ✅ Basics of Python — Springboard, Infosys
+- ✅ Java Programming — Great Learning
+
+**Workshops & Training**
+- 🛠️ Three-Day Hands-on Workshop on IoT & Embedded System Applications using ESP32 — EdGate Technologies (April 2025)
+
+**Activities**
+- 🇮🇳 Student Volunteer, Smart India Hackathon — event coordination & participant support
+- 💡 Participant, SCINOVA — showcased innovative engineering concepts
 
 ---
 
