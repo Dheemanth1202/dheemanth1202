@@ -1,241 +1,149 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║          GITHUB PROFILE README  ·  H Dheemanth  ·  VLSI Design     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================
+     GITHUB PROFILE README — Dheemanth
+     Edit anything marked with <!-- COMMENT --> tags below
+     ============================================================ -->
 
 <div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━  HERO BANNER  ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- Animated typing banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dheemanth+%F0%9F%91%8B;RTL+%26+Digital+IC+Design+Enthusiast;VLSI+%7C+FPGA+%7C+Verilog+%7C+SystemVerilog;Aspiring+Hardware+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="()" width="100%" alt="H Dheemanth — VLSI Design Engineer" />
+<!-- COMMENT: Update social links below with your own -->
+<p>
+  <a href="https://www.linkedin.com/in/h-dheemanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dheemanthh74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- COMMENT: Add your Portfolio link if you have one -->
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+  <!-- COMMENT: Add your Resume link if you have one -->
+  <!-- <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a> -->
+</p>
 
-<br /><br />
-
-<!-- ANIMATED NAME -->
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=H+Dheemanth" alt="H Dheemanth" />
-</h1>
-
-<!-- ROTATING TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=FB923C&center=true&vCenter=true&width=860&lines=RTL+Designer+%7C+Digital+IC+%26+FPGA+Developer;IIT+Madras+Certified+%7C+VLSI+Design;Verilog+%2F+SystemVerilog+%7C+Cadence+Virtuoso+%7C+Xilinx+Vivado;Building+silicon+from+the+ground+up+%E2%80%94+one+gate+at+a+time" alt="Tagline" />
-
-<br /><br />
-
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/ECE%20Undergrad%20·%20NCET%20Bengaluru-0f172a?style=flat-square&labelColor=38BDF8&color=0f172a&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/IIT%20Madras%20·%20VLSI%20Certified-0f172a?style=flat-square&labelColor=FB923C&color=0f172a&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Internships-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
-
-<br /><br />
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━  SOCIAL LINKS  ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<a href="https://github.com/Dheemanth1202" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-</a>&ensp;
-<a href="https://www.linkedin.com/in/h-dheemanth/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&ensp;
-<a href="https://www.instagram.com/dheemanth__12_02/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>&ensp;
-<a href="https://YOUR_WEBSITE" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0f172a" alt="Portfolio" />
-</a>&ensp;
-<a href="mailto:dheemanthh74@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br /><br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dheemanth1202&label=Profile+Views&color=38BDF8&style=flat-square)
+📍 Bengaluru, Karnataka, India &nbsp;|&nbsp; 🎓 ECE Undergrad @ NCET (2027) &nbsp;|&nbsp; 🔬 IIT Madras VLSI Design Certified
 
 </div>
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━  ABOUT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🧠 About Me
 
-## 🧑‍💻 &nbsp;About Me
+I'm a second-year Electronics & Communication Engineering student at Nagarjuna College of Engineering and Technology, Bengaluru, building a focused path into **RTL Design, Digital IC Design, and FPGA Development**. I design and verify digital circuits in Verilog/SystemVerilog, deploy them on Xilinx FPGAs, and explore analog IC design in Cadence Virtuoso — currently following a self-structured 7-month roadmap spanning Digital Logic → RTL → Synthesis → STA → DFT → Place & Route → Verification.
 
-```verilog
-module Engineer (
-  input  wire curiosity,
-  input  wire discipline,
-  output reg  impact
-);
+**🎯 Career Goals:** Seeking internship / entry-level opportunities in **RTL Design, Digital IC Design, and FPGA Development** at semiconductor companies like **Qualcomm, Intel, and AMD**.
 
-  // Identity
-  parameter NAME     = "H Dheemanth";
-  parameter ROLE     = "RTL Designer & FPGA Developer";
-  parameter COLLEGE  = "NCET, Bengaluru  |  ECE '27";
-  parameter CERT     = "IIT Madras — VLSI Design";
+**💡 Interests:**
+- 🔩 Digital & Analog VLSI Design (RTL to Layout)
+- 🧩 FPGA Prototyping & Hardware Verification
+- 🌐 Full-stack Web Development (side interest)
 
-  // Core expertise
-  parameter DIGITAL  = {"RTL Design", "FPGA Impl", "Verilog/SV", "Timing Closure"};
-  parameter ANALOG   = {"Two-Stage Miller Op-Amp", "Cadence Virtuoso", "Spectre ADE"};
-  parameter TOOLS    = {"Xilinx Vivado", "ModelSim", "Cadence", "MATLAB"};
-
-  // What I'm working on
-  always @(posedge curiosity) begin
-    currently_building <= "NEXPARK — AI Smart Parking System (FPGA + YOLOv8)";
-    currently_learning <= "Physical Design · STA · UVM · RISC-V Architecture";
-    targeting          <= "Qualcomm · Intel · AMD — RTL / Digital IC Intern";
-  end
-
-  // Ask me about
-  // ▸ RTL design & synthesis flows      ▸ FPGA deployment on Xilinx boards
-  // ▸ Two-Stage Miller Op-Amp design    ▸ Combinational & sequential logic
-  // ▸ VLSI design methodology           ▸ IIT Madras VLSI curriculum path
-
-  assign impact = curiosity & discipline;
-
-endmodule
-```
-
-<br />
-
-<table>
-<tr><td>
-
-**🔭 Flagship project** &nbsp;&nbsp;&nbsp; NEXPARK — Verilog RTL + FPGA + YOLOv8 + multi-modal auth  
-**🔬 Analog design** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two-Stage Miller Op-Amp · Cadence Virtuoso · gpdk180 PDK  
-**🌱 Currently learning** &nbsp; Physical Design · Static Timing Analysis · UVM  
-**🎯 Targeting** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RTL Design / Digital IC / FPGA internships (2025–26)  
-**📜 Certification** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IIT Madras — VLSI Design (strongest credibility asset)  
-**💬 Ask me about** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verilog · FPGA flows · Op-Amp sizing · VLSI roadmap
-
-</td></tr>
-</table>
+<!-- COMMENT: Replace with your own fun fact -->
+**⚡ Fun Fact:** I like designing chips by day and productivity systems by night — I built my own Notion-based "Life OS" to run my VLSI roadmap like a project schedule.
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━  SKILLS  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🛠️ Tech Stack
 
-## 🛠️ &nbsp;Tech Stack & Skills
+**Hardware & VLSI**
 
-### ⚡ RTL & Digital Design
-<p>
-  <img src="https://img.shields.io/badge/Verilog-38BDF8?style=for-the-badge&logo=v&logoColor=0f172a" />
-  <img src="https://img.shields.io/badge/SystemVerilog-FB923C?style=for-the-badge&logo=v&logoColor=0f172a" />
-  <img src="https://img.shields.io/badge/VHDL-38BDF8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTL%20Design-0f172a?style=for-the-badge&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Logic%20Synthesis-0f172a?style=for-the-badge&logoColor=FB923C" />
-  <img src="https://img.shields.io/badge/Timing%20Closure-0f172a?style=for-the-badge&logoColor=38BDF8" />
-</p>
+![Verilog](https://img.shields.io/badge/Verilog-3178C6?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E3A8A?style=for-the-badge)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-D2232A?style=for-the-badge&logo=xilinx&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-005073?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-orange?style=for-the-badge)
 
-### 🔌 FPGA & EDA Tools
-<p>
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-FB923C?style=for-the-badge&logo=xilinx&logoColor=0f172a" />
-  <img src="https://img.shields.io/badge/ModelSim-38BDF8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-0f172a?style=for-the-badge&logoColor=FB923C" />
-  <img src="https://img.shields.io/badge/Spectre%20ADE-0f172a?style=for-the-badge&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Synopsys%20DC-0f172a?style=for-the-badge&logoColor=FB923C" />
-</p>
+**Embedded Systems**
 
-### 🔬 Analog & Mixed-Signal
-<p>
-  <img src="https://img.shields.io/badge/Two--Stage%20Miller%20Op--Amp-38BDF8?style=for-the-badge&logoColor=0f172a" />
-  <img src="https://img.shields.io/badge/gpdk180%20PDK-0f172a?style=for-the-badge&logoColor=FB923C" />
-  <img src="https://img.shields.io/badge/Small--Signal%20Analysis-0f172a?style=for-the-badge&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/SPICE%20Simulation-FB923C?style=for-the-badge&logoColor=0f172a" />
-</p>
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM7TDMI--S-1793D1?style=for-the-badge&logo=arm&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil%20µVision-005C99?style=for-the-badge)
 
-### 💻 Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,matlab&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Embedded%20C-38BDF8?style=flat-square&logo=c&logoColor=0f172a" />
-  <img src="https://img.shields.io/badge/TCL%20Scripting-0f172a?style=flat-square&logoColor=FB923C" />
-</p>
+**Software & Web**
 
-### 🌐 Software & Web (Supporting)
-<p>
-  <img src="https://skillicons.dev/icons?i=react,python,git,vscode&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLOv8-FB923C?style=flat-square&logo=python&logoColor=0f172a" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,notion&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LPC2148-0f172a?style=flat-square&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Keil%20µVision-0f172a?style=flat-square&logoColor=FB923C" />
-</p>
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  GITHUB ANALYTICS  ━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🚀 Featured Projects
 
-## 📊 &nbsp;GitHub Analytics
+<!-- COMMENT: Add your GitHub repo links (and live demo link for NEXPARK if available) -->
+
+### 🅰️ NEXPARK — AI-Powered Smart Parking System
+An intelligent parking management system combining hardware and AI: real-time vehicle detection using **YOLOv8**, with control/interfacing logic implemented in **Verilog RTL** and deployed on **Xilinx Vivado FPGA**.
+**Tech Stack:** Verilog · Xilinx Vivado · YOLOv8 · FPGA
+🔗 [GitHub Repo](YOUR_NEXPARK_REPO_URL) &nbsp;|&nbsp; 🌐 [Live Demo](YOUR_NEXPARK_DEMO_URL)
+
+### 🅱️ Two-Stage Miller Compensated Op-Amp
+Full analog IC design of a two-stage Miller-compensated operational amplifier in **Cadence Virtuoso**, simulated with **Spectre/ADE L** on **gpdk180 (180nm CMOS)** — covering DC, AC, and transient analysis.
+**Tech Stack:** Cadence Virtuoso · Spectre · ADE L · gpdk180 180nm CMOS
+🔗 [GitHub Repo](YOUR_OPAMP_REPO_URL)
+
+### 🅲️ 8-bit Pipelined Wallace Tree Multiplier
+A parameterized, pipelined Wallace Tree Multiplier designed in Verilog HDL with a complete self-checking testbench — built as a VLSI portfolio project demonstrating RTL design and verification skills.
+**Tech Stack:** Verilog HDL · Testbench Design
+🔗 [GitHub Repo](YOUR_WALLACE_TREE_REPO_URL)
+
+<!-- COMMENT: Optionally add a 4th project, e.g. Systolic Array Multiplier or CampusFind -->
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Dheemanth1202">
-  <img height="175em"
-       src="https://github-readme-stats.vercel.app/api?username=Dheemanth1202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=FB923C&text_color=cdd6f4&ring_color=38BDF8"
-       alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Dheemanth1202">
-  <img height="175em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheemanth1202&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=cdd6f4"
-       alt="Top Languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheemanth1202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheemanth1202&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Dheemanth1202&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=cdd6f4&dates=cdd6f4&sideNums=cdd6f4&currStreakNum=FB923C"
-     alt="GitHub Streak" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dheemanth1202&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"
-     alt="GitHub Trophies" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheemanth1202&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━  CONTRIBUTION GRAPH  ━━━━━━━━━━━━━━━━━━━━━ -->
+## 🏆 Achievements & Certifications
 
-## 🌊 &nbsp;Contribution Activity
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dheemanth1202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FB923C&area=true&area_color=38BDF8"
-    width="100%"
-    alt="Contribution Graph" />
-</div>
+- ✅ **IIT Madras — VLSI Design Certification**
+<!-- COMMENT: Add more certifications/achievements below, e.g. hackathons, VTU rank, workshops -->
+<!-- - ✅ [Achievement / Certification 2] -->
+<!-- - ✅ [Achievement / Certification 3] -->
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━  CONNECT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 📚 Currently Learning
+
+- 🔹 Static Timing Analysis (STA)
+- 🔹 Design for Testability (DFT)
+- 🔹 Physical Design / Place & Route
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 🔧 Open-source RTL / FPGA projects
+- 💼 VLSI/Digital Design internship opportunities
+- 🧪 Research projects in Digital or Analog IC Design
+- 🚀 Hardware-software co-design ideas
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-## 🤝 &nbsp;Let's Connect
+<a href="https://www.linkedin.com/in/h-dheemanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dheemanthh74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-*Targeting RTL Design, Digital IC, and FPGA internships at Qualcomm · Intel · AMD.*  
-*If you're hiring or want to collaborate on hardware projects — let's talk.*
+<br/><br/>
 
-<br />
-
-<a href="https://www.linkedin.com/in/h-dheemanth/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&ensp;
-<a href="mailto:dheemanthh74@gmail.com">
-  <img src="https://img.shields.io/badge/dheemanthh74%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&ensp;
-<a href="https://YOUR_WEBSITE">
-  <img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0f172a" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12&height=80&section=footer&animation=twinkling" width="100%" />
-
-<sub>⚡ Designed on silicon · Deployed in logic · Optimized for impact ⚡</sub>
+⭐️ *"From gates to gigahertz — building the silicon backbone of tomorrow."* ⭐️
 
 </div>
