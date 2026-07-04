@@ -6,7 +6,7 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━  HERO BANNER  ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="(https://github.com/Dheemanth1202/dheemanth1202/blob/main/Pi7_GIF_CMP.gif)" width="100%" alt="H Dheemanth — VLSI Design Engineer" />
+<img src="()" width="100%" alt="H Dheemanth — VLSI Design Engineer" />
 
 <br /><br />
 
