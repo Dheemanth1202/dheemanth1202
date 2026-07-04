@@ -87,10 +87,10 @@ Full analog IC design of a two-stage Miller-compensated operational amplifier in
 **Tech Stack:** Cadence Virtuoso · Spectre · ADE L · gpdk180 180nm CMOS
 🔗 [GitHub Repo](YOUR_OPAMP_REPO_URL)
 
-### 🅲️ 8-bit Pipelined Wallace Tree Multiplier
-A parameterized, pipelined Wallace Tree Multiplier designed in Verilog HDL with a complete self-checking testbench — built as a VLSI portfolio project demonstrating RTL design and verification skills.
-**Tech Stack:** Verilog HDL · Testbench Design
-🔗 [GitHub Repo](YOUR_WALLACE_TREE_REPO_URL)
+### 🅲️ 8×8 Wallace Tree Multiplier
+A fully structural, gate-level 8×8 unsigned Wallace Tree multiplier built in Verilog-2001, with a 4-stage compressor tree, 16-bit carry-propagate adder, and a self-checking testbench validated across 66,000+ test vectors (directed, exhaustive, and pseudo-random).
+**Tech Stack:** Verilog-2001 · Icarus Verilog / ModelSim · Structural RTL Design
+🔗 [GitHub Repo](https://github.com/Dheemanth1202/Capstone-Project-1)
 
 <!-- COMMENT: Optionally add a 4th project, e.g. Systolic Array Multiplier or CampusFind -->
 
