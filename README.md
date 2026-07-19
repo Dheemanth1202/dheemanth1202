@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a second-year Electronics & Communication Engineering student at Nagarjuna College of Engineering and Technology, Bengaluru, building a focused path into **RTL Design, Digital IC Design, and FPGA Development**. I design and verify digital circuits in Verilog/SystemVerilog, deploy them on Xilinx FPGAs, and explore analog IC design in Cadence Virtuoso — currently following a self-structured 7-month roadmap spanning Digital Logic → RTL → Synthesis → STA → DFT → Place & Route → Verification.
+I'm a final-year Electronics & Communication Engineering student at Nagarjuna College of Engineering and Technology, Bengaluru, building a focused path into **RTL Design, Digital IC Design, and FPGA Development**. I design and verify digital circuits in Verilog/SystemVerilog, deploy them on Xilinx FPGAs, and explore analog IC design in Cadence Virtuoso — currently following a self-structured 7-month roadmap spanning Digital Logic → RTL → Synthesis → STA → DFT → Place & Route → Verification.
 
 **🎯 Career Goals:** Seeking internship / entry-level opportunities in **RTL Design, Digital IC Design, and FPGA Development** at semiconductor companies like **Qualcomm, Intel, and AMD**.
 
